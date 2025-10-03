@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Simrah 👋  
 
-<!--
-**bournvitaa/bournvitaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **UPSC Aspirant | Web Developer | Tutor**  
+✨ Exploring **Nuxt 4, React, Vite & AI SaaS Apps**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+- Focused on building clean & minimal web projects  
+- Passionate about mentoring & problem-solving  
+- Always learning & growing in tech + academics  
+
+---
+
+## 🛠 Tech Stack
+`React` · `Next.js` · `Nuxt.js` · `Vite`  
+`HTML` · `CSS` · `JavaScript` 
+
+
+Minimalism in design, depth in ideas. 
