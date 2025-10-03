@@ -14,7 +14,7 @@ About Me
 
 ## 🛠 Tech Stack
 `React` · `Next.js` · `Nuxt.js` · `Vite`  
-`HTML` · `CSS` · `JavaScript` 'paython'
+`HTML` · `CSS` · `JavaScript`
 
 
 Minimalism in design, depth in ideas. 
