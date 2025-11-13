@@ -1,6 +1,6 @@
 # Hi, I'm Simrah 👋  
 
-💻 **UPSC Aspirant | Web Developer 
+💻 Web Developer 
 ✨ Exploring **Nuxt 4, React, Vite & AI SaaS Apps**  
 
 ---
