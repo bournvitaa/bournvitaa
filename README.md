@@ -1,4 +1,4 @@
-# Hi, I'm Simrah 👋  
+# Hi, I'm Simran Gouri 👋  
 
 💻 Web Developer 
 ✨ Exploring **Nuxt 4, React, Vite & AI SaaS Apps**  
